@@ -1,0 +1,42 @@
+Material Wood is included since Materialisation 0.1.4.
+- Require Mods: Vanilla
+- `wood.json`:
+```json
+{
+  "toolColor": "33530399",
+  "toolDurability": 59,
+  "miningLevel": 0,
+  "enchantability": 15,
+  "durabilityMultiplier": 1.1,
+  "breakingSpeedMultiplier": 1.0,
+  "toolSpeed": 2.0,
+  "attackDamage": 0.0,
+  "name": "wood",
+  "materialTranslationKey": "material.materialisation.wood",
+  "bright": false,
+  "ingredients": [
+    {
+      "ingredient": {
+        "type": "ITEM",
+        "content": "minecraft:stick"
+      },
+      "multiplier": 0.5
+    },
+    {
+      "ingredient": {
+        "type": "TAG",
+        "content": "minecraft:logs"
+      },
+      "multiplier": 4.0
+    },
+    {
+      "ingredient": {
+        "type": "TAG",
+        "content": "minecraft:planks"
+      },
+      "multiplier": 1.0
+    }
+  ],
+  "fullAmount": 100
+}
+```
