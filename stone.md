@@ -5,16 +5,17 @@ Material Stone is included since Materialisation 0.1.4.
 - `stone.json`:
 ```json
 {
+  "enabled": true,
   "toolColor": "-2960686",
-  "toolDurability": 131,
-  "miningLevel": 1,
-  "enchantability": 5,
-  "durabilityMultiplier": 0.4,
-  "breakingSpeedMultiplier": 0.9,
+  "toolDurability": 131.0,
+  "miningLevel": 1.0,
+  "enchantability": 5.0,
+  "durabilityMultiplier": 0.4000000059604645,
+  "breakingSpeedMultiplier": 0.8999999761581421,
   "toolSpeed": 4.0,
   "attackDamage": 1.0,
-  "name": "stone",
-  "materialTranslationKey": "material.materialisation.stone",
+  "name": "minecraft:stone",
+  "materialTranslationKey": "material.materialisation.minecraft.stone",
   "bright": false,
   "ingredients": [
     {
@@ -25,6 +26,6 @@ Material Stone is included since Materialisation 0.1.4.
       "multiplier": 1.0
     }
   ],
-  "fullAmount": 100
+  "fullAmount": 100.0
 }
 ```

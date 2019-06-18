@@ -5,16 +5,17 @@ Material Iron is included since Materialisation 0.1.4.
 - `iron.json`:
 ```json
 {
+  "enabled": true,
   "toolColor": "-1",
-  "toolDurability": 250,
-  "miningLevel": 2,
-  "enchantability": 14,
-  "durabilityMultiplier": 0.9,
-  "breakingSpeedMultiplier": 1.0,
+  "toolDurability": 250.0,
+  "miningLevel": 2.0,
+  "enchantability": 14.0,
+  "durabilityMultiplier": 1.0,
+  "breakingSpeedMultiplier": 1.100000023841858,
   "toolSpeed": 6.0,
   "attackDamage": 2.0,
-  "name": "iron",
-  "materialTranslationKey": "material.materialisation.iron",
+  "name": "minecraft:iron",
+  "materialTranslationKey": "material.materialisation.minecraft.iron",
   "bright": true,
   "ingredients": [
     {
@@ -32,6 +33,6 @@ Material Iron is included since Materialisation 0.1.4.
       "multiplier": 18.0
     }
   ],
-  "fullAmount": 100
+  "fullAmount": 100.0
 }
 ```

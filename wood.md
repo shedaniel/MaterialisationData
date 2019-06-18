@@ -5,16 +5,17 @@ Material Wood is included since Materialisation 0.1.4.
 - `wood.json`:
 ```json
 {
-  "toolColor": "33530399",
-  "toolDurability": 59,
-  "miningLevel": 0,
-  "enchantability": 15,
-  "durabilityMultiplier": 1.1,
+  "enabled": true,
+  "toolColor": "-24033",
+  "toolDurability": 59.0,
+  "miningLevel": 0.0,
+  "enchantability": 15.0,
+  "durabilityMultiplier": 1.100000023841858,
   "breakingSpeedMultiplier": 1.0,
   "toolSpeed": 2.0,
   "attackDamage": 0.0,
-  "name": "wood",
-  "materialTranslationKey": "material.materialisation.wood",
+  "name": "minecraft:wood",
+  "materialTranslationKey": "material.materialisation.minecraft.wood",
   "bright": false,
   "ingredients": [
     {
@@ -39,6 +40,6 @@ Material Wood is included since Materialisation 0.1.4.
       "multiplier": 1.0
     }
   ],
-  "fullAmount": 100
+  "fullAmount": 100.0
 }
 ```
