@@ -6,6 +6,7 @@
 - [Stone](https://shedaniel.me/MaterialisationData/stone)
 - [Iron](https://shedaniel.me/MaterialisationData/iron)
 - [Gold](https://shedaniel.me/MaterialisationData/gold)
+
 ## Cotton Resources
 - [Aluminum](https://shedaniel.me/MaterialisationData/aluminum)
 - [Brass](https://shedaniel.me/MaterialisationData/brass)
@@ -24,6 +25,11 @@
 - [Titanium](https://shedaniel.me/MaterialisationData/titanium)
 - [Tungsten](https://shedaniel.me/MaterialisationData/tungsten)
 - [Zinc](https://shedaniel.me/MaterialisationData/zinc)
+
+## Nether Things
+- [Nether](https://shedaniel.me/MaterialisationData/nether)
+- [Glowstone](https://shedaniel.me/MaterialisationData/glowstone)
+- [Vibranium](https://shedaniel.me/MaterialisationData/vibranium)
 
 ### Overriding a material
 In Materialisation 0.1.3 or below: You can't change the materials <br>
