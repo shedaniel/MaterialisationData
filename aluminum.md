@@ -20,14 +20,14 @@ Material Aluminum is included since Materialisation 0.1.6.
   "ingredients": [
     {
       "ingredient": {
-        "type": "ITEM",
+        "type": "TAG",
         "content": "c:aluminum_ingot"
       },
       "multiplier": 2.0
     },
     {
       "ingredient": {
-        "type": "ITEM",
+        "type": "TAG",
         "content": "c:aluminum_block"
       },
       "multiplier": 18.0

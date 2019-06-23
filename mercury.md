@@ -20,7 +20,7 @@ Material Mercury is included since Materialisation 0.1.6.
   "ingredients": [
     {
       "ingredient": {
-        "type": "ITEM",
+        "type": "TAG",
         "content": "c:mercury"
       },
       "multiplier": 2.0
