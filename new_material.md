@@ -114,6 +114,7 @@ Locate your self to the `materialisation/material` folder in `config`, and creat
   - The multiplier of the ingredient
   - Must be declared as a double
   - Example: `ingots` should be `2.0` and `blocks` should be `18.0`
+  - Usage: Making a pickaxe head requires `4.0` points, as one iron ingot is `2.0` points, you will need 2 ingots.
 
 `fullAmount`:
 - The repair amount that an ingredient can repair.
