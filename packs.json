@@ -1,5 +1,14 @@
 [
   {
+    "displayName": "Amethyst",
+    "latestVersion": "0.1.0",
+    "authors": [
+      "Danielshe"
+    ],
+    "download": "https://github.com/shedaniel/MaterialisationData/raw/master/Amethyst.materialpack",
+    "description": "Adds amethyst as a material to your game.\nRequires Amethyst Mod."
+  },
+  {
     "displayName": "Vanilla Diamond",
     "latestVersion": "0.1.0",
     "authors": [
