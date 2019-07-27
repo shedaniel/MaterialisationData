@@ -2,47 +2,47 @@
 
 ## Default Materials:
 ### Vanilla
-- [Wood](https://shedaniel.me/MaterialisationData/wood)
-- [Stone](https://shedaniel.me/MaterialisationData/stone)
-- [Iron](https://shedaniel.me/MaterialisationData/iron)
-- [Gold](https://shedaniel.me/MaterialisationData/gold)
+- [Wood](https://materialisation.shedaniel.me/wood)
+- [Stone](https://materialisation.shedaniel.me/stone)
+- [Iron](https://materialisation.shedaniel.me/iron)
+- [Gold](https://materialisation.shedaniel.me/gold)
 
 ### Cotton Resources
-- [Aluminum](https://shedaniel.me/MaterialisationData/aluminum)
-- [Brass](https://shedaniel.me/MaterialisationData/brass)
-- [Cobalt](https://shedaniel.me/MaterialisationData/cobalt)
-- [Copper](https://shedaniel.me/MaterialisationData/copper)
-- [Electrum](https://shedaniel.me/MaterialisationData/electrum)
-- [Iridium](https://shedaniel.me/MaterialisationData/iridium)
-- [Lead](https://shedaniel.me/MaterialisationData/lead)
-- [Mercury](https://shedaniel.me/MaterialisationData/mercury)
-- [Osmium](https://shedaniel.me/MaterialisationData/osmium)
-- [Palladium](https://shedaniel.me/MaterialisationData/palladium)
-- [Platinum](https://shedaniel.me/MaterialisationData/platinum)
-- [Silver](https://shedaniel.me/MaterialisationData/silver)
-- [Steel](https://shedaniel.me/MaterialisationData/steel)
-- [Tin](https://shedaniel.me/MaterialisationData/tin)
-- [Titanium](https://shedaniel.me/MaterialisationData/titanium)
-- [Tungsten](https://shedaniel.me/MaterialisationData/tungsten)
-- [Zinc](https://shedaniel.me/MaterialisationData/zinc)
+- [Aluminum](https://materialisation.shedaniel.me/aluminum)
+- [Brass](https://materialisation.shedaniel.me/brass)
+- [Cobalt](https://materialisation.shedaniel.me/cobalt)
+- [Copper](https://materialisation.shedaniel.me/copper)
+- [Electrum](https://materialisation.shedaniel.me/electrum)
+- [Iridium](https://materialisation.shedaniel.me/iridium)
+- [Lead](https://materialisation.shedaniel.me/lead)
+- [Mercury](https://materialisation.shedaniel.me/mercury)
+- [Osmium](https://materialisation.shedaniel.me/osmium)
+- [Palladium](https://materialisation.shedaniel.me/palladium)
+- [Platinum](https://materialisation.shedaniel.me/platinum)
+- [Silver](https://materialisation.shedaniel.me/silver)
+- [Steel](https://materialisation.shedaniel.me/steel)
+- [Tin](https://materialisation.shedaniel.me/tin)
+- [Titanium](https://materialisation.shedaniel.me/titanium)
+- [Tungsten](https://materialisation.shedaniel.me/tungsten)
+- [Zinc](https://materialisation.shedaniel.me/zinc)
 
 ### Nether Things
-- [Nether](https://shedaniel.me/MaterialisationData/nether)
-- [Glowstone](https://shedaniel.me/MaterialisationData/glowstone)
-- [Vibranium](https://shedaniel.me/MaterialisationData/vibranium)
+- [Nether](https://materialisation.shedaniel.me/nether)
+- [Glowstone](https://materialisation.shedaniel.me/glowstone)
+- [Vibranium](https://materialisation.shedaniel.me/vibranium)
 
 ## Adding new materials
-You create a material json file: [Create Material Tutorial](https://shedaniel.me/MaterialisationData/new_material).
-  
+You create a material json file: [Create Material Tutorial](https://materialisation.shedaniel.me/new_material).
+
 
 ## Overriding a material
 In Materialisation 0.1.3 or below: You can't change the materials <br>
 In Materialisation 0.1.4: You can directly edit the corresponding json files. <br>
-In Materialisation 0.1.5 or above: You create an override material json file: [Overriding Tutorial](https://shedaniel.me/MaterialisationData/overriding_a_material).
+In Materialisation 0.1.5 or above: You create an override material json file: [Overriding Tutorial](https://materialisation.shedaniel.me/overriding_a_material).
 
 ## Disabling a material
 In Materialisation 0.1.4: You can directly delete the corresponding json files. <br>
-In Materialisation 0.1.5, follow [guide](https://shedaniel.me/MaterialisationData/disabling_a_material).
+In Materialisation 0.1.5, follow [guide](https://materialisation.shedaniel.me/disabling_a_material).
 
 ## Config
-In Materialisation 0.5.1: [https://shedaniel.me/MaterialisationData/config](https://shedaniel.me/MaterialisationData/config)
+In Materialisation 0.5.1: [https://materialisation.shedaniel.me/config](https://materialisation.shedaniel.me/config)
