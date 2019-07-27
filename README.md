@@ -45,10 +45,4 @@ In Materialisation 0.1.4: You can directly delete the corresponding json files. 
 In Materialisation 0.1.5, follow [guide](https://shedaniel.me/MaterialisationData/disabling_a_material).
 
 ## Config
-In Materialisation 0.5.1: You can access the config menu via [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu).
-![Config Screen](https://i.imgur.com/uGRrHQ8.png)
-
-You will see the stats on all the materials. You can press "Install New..." to open this screen:
-![Material Screen](https://i.imgur.com/4Ii0ASs.png)
-
-Now you can choose the material pack you want and press download, it will open your browser to download the file. Drop the file into the Packs Folder, which can be opened on the top right. Restart your game and it is done.
+In Materialisation 0.5.1: [https://shedaniel.me/MaterialisationData/config](https://shedaniel.me/MaterialisationData/config)
