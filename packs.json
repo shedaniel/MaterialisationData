@@ -15,6 +15,42 @@
       "Danielshe"
     ],
     "download": "https://github.com/shedaniel/MaterialisationData/raw/master/VanillaDiamond.materialpack",
-    "description": "Adds diamonds as a material to your game."
+    "description": "Adds diamond as a material to your game."
+  },
+  {
+    "displayName": "Vanilla Emerald",
+    "latestVersion": "0.1.0",
+    "authors": [
+      "Danielshe"
+    ],
+    "download": "https://github.com/shedaniel/MaterialisationData/raw/master/VanillaEmerald.materialpack",
+    "description": "Adds emerald as a material to your game."
+  },
+  {
+    "displayName": "Vanilla Lapis",
+    "latestVersion": "0.1.0",
+    "authors": [
+      "Danielshe"
+    ],
+    "download": "https://github.com/shedaniel/MaterialisationData/raw/master/VanillaLapis.materialpack",
+    "description": "Adds lapis as a material to your game."
+  },
+  {
+    "displayName": "Vanilla Obsidian",
+    "latestVersion": "0.1.0",
+    "authors": [
+      "Danielshe"
+    ],
+    "download": "https://github.com/shedaniel/MaterialisationData/raw/master/VanillaObsidian.materialpack",
+    "description": "Adds obsidian as a material to your game."
+  },
+  {
+    "displayName": "Vanilla Quartz",
+    "latestVersion": "0.1.0",
+    "authors": [
+      "Danielshe"
+    ],
+    "download": "https://github.com/shedaniel/MaterialisationData/raw/master/VanillaQuartz.materialpack",
+    "description": "Adds quartz as a material to your game."
   }
 ]
