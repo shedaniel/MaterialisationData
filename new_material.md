@@ -82,7 +82,7 @@ Locate your self to the `materialisation/material` folder in `config`, and creat
         "type": type of the ingredient,
         "content": the identifier of the ingredient
       },
-      "multiplier: multiplier of the ingredient
+      "multiplier": multiplier of the ingredient
     }
   ]
   ```
