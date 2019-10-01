@@ -15,7 +15,7 @@
 - [Electrum](https://materialisation.shedaniel.me/electrum)
 - [Iridium](https://materialisation.shedaniel.me/iridium)
 - [Lead](https://materialisation.shedaniel.me/lead)
-- [Mercury](https://materialisation.shedaniel.me/mercury)
+- ~~[Mercury](https://materialisation.shedaniel.me/mercury)~~
 - [Osmium](https://materialisation.shedaniel.me/osmium)
 - [Palladium](https://materialisation.shedaniel.me/palladium)
 - [Platinum](https://materialisation.shedaniel.me/platinum)
