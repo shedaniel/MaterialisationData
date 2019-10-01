@@ -1,6 +1,8 @@
 [Home](https://shedaniel.me/MaterialisationData/)
 
-Material Mercury is included since Materialisation 0.1.6.
+**The material you are looking at is no longer in the game!**
+
+Material Mercury is included since Materialisation 0.1.6 until 1.0.0.
 - Require Mods: Cotton Resources
 - `mercury.json`:
 ```json
